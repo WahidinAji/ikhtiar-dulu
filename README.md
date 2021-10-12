@@ -2,15 +2,15 @@
 ### Macbook Air
 ![Macbook Air](./assets/img/macbook-air.png)
 ### Mobile
-![Mobile](./assets/mobile.png)
+![Mobile](./assets/img/mobile.png)
 ## Image References
 * background image
 <a href="https://unsplash.com/photos/PAykYb-8Er8">
 
 ![Profile Card](./assets/img/background.jpg)
 </a>
-* Icon image
-<a href="https://unsplash.com/photos/PAykYb-8Er8">
+* Icon title image
+<a href="https://id.pinterest.com/pin/175992297927051769">
 
 ![Icon Title](./assets.img.emoji.png)
 </a>
