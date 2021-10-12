@@ -12,7 +12,7 @@
 * Icon title image
 <a href="https://id.pinterest.com/pin/175992297927051769">
 
-![Icon Title](./assets.img.emoji.png)
+![Icon Title](./assets/img/emoji.png)
 </a>
 * Splash image
 <a href="https://unsplash.com/photos/PAykYb-8Er8">
