@@ -1,7 +1,7 @@
 ### Credits
 ## Page
 
- ![Profile Card](url("./assets/img/background.jpg"))
+ ![Profile Card](./assets/img/background.jpg)
 ## image
 ![Image Background](https://unsplash.com/photos/PAykYb-8Er8)
 ![Icon Title](https://id.pinterest.com/pin/175992297927051769)
